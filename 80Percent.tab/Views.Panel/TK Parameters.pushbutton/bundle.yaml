@@ -1,0 +1,10 @@
+title: TK Parameters
+tooltip: Adjust TK Parameters according to the conditions.
+author: Mai Maher
+help_url: https://www.revitapidocs.com/
+engine:
+  type: python
+  version: 3
+
+min_revit_version: 2020
+max_revit_version: 2025
